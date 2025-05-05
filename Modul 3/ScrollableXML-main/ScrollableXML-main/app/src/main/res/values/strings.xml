@@ -1,0 +1,62 @@
+<resources>
+    <string name="Fallout">Fallout</string>"
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="wiki">Wiki</string>
+    <string name="year">Year</string>
+    <string name="detail">Detail</string>
+    <string name="img">Image</string>
+
+    <string name="judul1">Fallout 1</string>
+    <string name="judul2">Fallout 2</string>
+    <string name="judul3">Fallout 3</string>
+    <string name="judul4">Fallout 4</string>
+    <string name="judul5">Fallout: New Vegas</string>
+
+    <string name="deskripsi1">Fallout (1997) – The original post-apocalyptic RPG where you emerge from Vault 13 to find the Water Chip and save your vault. It features turn-based combat and impactful choices.</string>
+    <string name="deskripsi2">Fallout 2 (1998) – The sequel that expands the world, following the descendants of Vault 13 in their quest for the Garden of Eden Creation Kit (GECK). It offers more refined gameplay and darker humor.</string>
+    <string name="deskripsi3">Fallout 3 (2008) – Bethesda’s 3D reimagining set in the Capital Wasteland, featuring real-time combat with VATS and a father-son story amid the ruins of Washington, D.C.</string>
+    <string name="deskripsi4">Fallout 4 (2015) – The next-gen installment set in Boston, introducing settlement building, weapon crafting, and the search for a missing child in the irradiated Commonwealth.</string>
+    <string name="deskripsi5">Fallout: New Vegas (2010) – A fan-favorite spin-off by Obsidian set in the Mojave, featuring warring factions and the most reactive storytelling in the series.</string>
+
+    <string name="wiki1">https://fallout.fandom.com/wiki/Fallout</string>
+    <string name="wiki2">https://fallout.fandom.com/wiki/Fallout_2</string>
+    <string name="wiki3">https://fallout.fandom.com/wiki/Fallout_3</string>
+    <string name="wiki4">https://fallout.fandom.com/wiki/Fallout_4</string>
+    <string name="wikinv">https://fallout.fandom.com/wiki/Fallout:_New_Vegas</string>
+
+    <string name="year1">1997</string>
+    <string name="year2">1998</string>
+    <string name="year3">2008</string>
+    <string name="year4">2015</string>
+    <string name="year5">2010</string>
+
+    <string name="detail1">The original Fallout (1997) revolutionized CRPGs with its post-apocalyptic setting and open-ended gameplay. Developed by Interplay Productions using the SPECIAL system (Strength, Perception, Endurance, Charisma, Intelligence, Agility, Luck), it introduced the iconic Vault Dweller protagonist emerging from Vault 13 to find a water chip. Set in 2161 across the radioactive Southern California wasteland (\"The Wastes\"), it pioneered moral ambiguity choices, dark humor, and multiple solution paths. Notable for its time limit mechanic, turn-based combat, and memorable factions like the Brotherhood of Steel. Considered one of the greatest PC RPGs ever made, it spawned a franchise despite initial commercial challenges.</string>
+    <string name="detail2">Fallout 2 (1998) expanded the universe as the \"Chosen One\" descendant searches for the Garden of Eden Creation Kit (GECK) to save their tribal village. Spanning Oregon to Northern California, it introduced iconic locations like New Reno (mob-ruled city) and Vault City. Enhanced RPG elements included:
+- Car travel system
+- Expanded perk selection
+- Reputation system with 14 factions
+- Mature themes and pop culture references
+Criticized for rushed development but praised for deep storytelling. Introduced the Enclave as main antagonists and featured over 300 ending permutations. Notable for retaining the dark humor and adding working prostitutes - controversial content that led to a Teen rating controversy.</string>
+    <string name="detail3">Fallout 3 (2008) marked Bethesda\'s 3D revival set in 2277\'s Capital Wasteland (Washington D.C. ruins). Introducing first-person gameplay with V.A.T.S. (Vault-Tec Assisted Targeting System), it blended shooter mechanics with RPG elements. Players as the Lone Wanderer search for James (Liam Neeson-voiced father), encountering:
+- Radiation poisoning mechanics
+- Weapon degradation system
+- Karma-based morality choices
+- Super Mutant Behemoths
+Landmark locations included the irradiated Megaton city and the Smithsonian Museum. Won numerous GOTY awards despite initial controversy among classic Fallout fans. The Broken Steel DLC extended the controversial original ending, allowing post-game exploration.</string>
+    <string name="detail4">Fallout 4 (2015) introduced next-gen features in the Commonwealth (post-nuclear Boston):
+- Settlement building system
+- Voiced protagonist (Brian T. Delaney/Courtenay Taylor)
+- Weapon crafting (over 700 modifications)
+- Power Armor as early-game vehicle
+- Legendary enemy system
+Set in 2287, the Sole Survivor searches for kidnapped son Shaun, revealing Institute synth conspiracy. Praised for combat improvements but criticized for simplified dialogue wheel. Far Harbor DLC particularly acclaimed for returning to classic Fallout storytelling. Introduced the Creation Club mod system and survival mode with needs mechanics. Sold 12 million copies in first 24 hours.</string>
+    <string name="detail5">Fallout: New Vegas (2010) by Obsidian Entertainment (original Fallout developers) became a cult classic. Set in 2281\'s Mojave Wasteland, the Courier survives a Benny-led shooting to uncover the Platinum Chip conspiracy amid NCR-Caesar\'s Legion war. Features:
+- 94+ ending variations
+- Reputation system with 34 factions
+- Hardcore mode (needs, ammo weight)
+- ADS iron sights shooting
+- Companion affinity system
+The Divide DLC (Lonesome Road) ties directly to original Fallout lore. Though buggy at launch, praised for complex writing and true RPG feel. Contains hidden references to canceled Van Buren project. Modding community continues expanding content 14+ years later.</string>
+
+</resources>
