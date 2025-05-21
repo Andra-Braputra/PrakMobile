@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fallout_bg">#1C1C1C</color> <!-- Dark background -->
+    <color name="fallout_card">#2E2E2E</color> <!-- Dark gray card -->
+    <color name="fallout_text">#E6E6E6</color> <!-- Off-white text -->
+    <color name="fallout_accent">#FFD700</color> <!-- Vault Boy yellow -->
+    <color name="fallout_button">#1F3805</color> <!-- Green terminal button -->
+    <color name="fallout_button_text">#528E3C</color> <!-- Dark text on bright buttons -->
+</resources>
